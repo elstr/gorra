@@ -1,5 +1,5 @@
 # Gorra
-Conta los minutos en la daily
+Conta los minutos en la daily y gorrea a tus compañerxs 
 
 ### Cómo instalar
 ```
