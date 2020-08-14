@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	mins := flag.Int("m", 2, "text")
+	mins := flag.Int("m", 2, "minutes to gorrear")
 	flag.Parse()
 	fmt.Printf("\n\n 👮 Gorreando %d mins 👮 \n", *mins)
 
